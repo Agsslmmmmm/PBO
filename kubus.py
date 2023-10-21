@@ -4,7 +4,7 @@ r = 10 # Rusuk Kubus
 
 
 # Luas Kubus
-luas = r * r * r
+luas = 6 * r**2
 
 # Volume Kubus
 
